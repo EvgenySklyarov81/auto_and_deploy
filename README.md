@@ -9,4 +9,4 @@
 
 ### Запуск проекта.  
 1. Находясь в директории, куда вы намереваетесь скачать этот проект, выполнить команду в терминале:  
-git clone https://github.com/EvgenySklyarov81/auto_and_deploy
+`git clone https://github.com/EvgenySklyarov81/auto_and_deploy`
