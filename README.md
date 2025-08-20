@@ -28,3 +28,4 @@ create table if not exists sales (
                                 discount numeric
                                 );
 ```  
+6. В файле [config.ini](config.ini) укажите данные для подключения к вашей базе данных.  
