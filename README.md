@@ -18,7 +18,7 @@
 4. Установите необходимые библиотеки командой:  
 `pip install -r requirements.txt`  
 5. В базе данных, куда вы намереваетесь записывать сгенерированные данные создайте таблицу:  
-```
+```sql
 create table if not exists sales (
                                 doc_id   varchar(6),
                                 item     text,
@@ -28,4 +28,3 @@ create table if not exists sales (
                                 discount numeric
                                 );
 ```  
-                                
