@@ -3,6 +3,6 @@
 В директории data находится пример сгенерированных файлов с данными.  
 
 Настройки crontab:
-![test](img/crontab.jpg)
+!(img/crontab.jpg)
 Пример таблицы с загруженными данными:
-![таблица](img/table_sales.jpg)
+!(img/table_sales.jpg)
