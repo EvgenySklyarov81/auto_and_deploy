@@ -1,3 +1,4 @@
+```sql
 create table if not exists sales (
                                   doc_id   varchar(6),
                                   item     text,
@@ -6,3 +7,4 @@ create table if not exists sales (
                                   price    smallint,
                                   discount numeric
                                  );
+```                                 
