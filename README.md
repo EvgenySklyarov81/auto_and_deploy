@@ -13,6 +13,8 @@
 2. Перейдите в директорию `auto_and_deploy` и создайте виртуальное окружение командой:  
 `python3 -m venv <имя окружения>`  
 3. Активируйте его:  
-    * Windows `venv\scripts\activate`  
-    * Linux   `source venv/bin/activate`  
-4.     
+    * Windows `<имя окружения>\scripts\activate`  
+    * Linux   `source <имя окружения>/bin/activate`  
+4. Установите необходимые библиотеки командой:  
+`pip install -r requirements.txt`  
+5. 
